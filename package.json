@@ -1,10 +1,9 @@
 {
   "name": "joba-worque",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Joba worque bus plugin.",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git://github.com/titarenko/joba-worque.git"
@@ -19,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/titarenko/joba-worque/issues"
   },
-  "homepage": "https://github.com/titarenko/joba-worque"
+  "homepage": "https://github.com/titarenko/joba-worque",
+  "dependencies": {
+    "worque": "^0.4.5"
+  }
 }
