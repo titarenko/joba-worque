@@ -1,0 +1,23 @@
+{
+  "name": "joba-worque",
+  "version": "0.1.1",
+  "description": "Joba worque bus plugin.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/titarenko/joba-worque.git"
+  },
+  "keywords": [
+    "joba",
+    "worque",
+    "plugin"
+  ],
+  "author": "Constantin Titarenko",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/titarenko/joba-worque/issues"
+  },
+  "homepage": "https://github.com/titarenko/joba-worque"
+}
