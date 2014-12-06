@@ -5,8 +5,8 @@ function Adapter (config) {
 	this.aliases = {};
 }
 
-Adapter.prototype.subscribe = function (name, hander) {
-	return this.client.subscribe(this.aliases[name] || name, hander);
+Adapter.prototype.subscribe = function (name, concurrency, hander) {
+	return this.client.subscribe(this.aliases[name] || name, concurrency, hander);
 };
 
 Adapter.prototype.publish = function (name, message) {
