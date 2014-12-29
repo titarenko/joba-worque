@@ -1,6 +1,6 @@
 {
   "name": "joba-worque",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Joba worque bus plugin.",
   "main": "index.js",
   "scripts": {},
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/titarenko/joba-worque",
   "dependencies": {
-    "worque": "^0.4.5"
+    "worque": "^0.4.6"
   }
 }
